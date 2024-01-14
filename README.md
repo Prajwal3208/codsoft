@@ -1,2 +1,2 @@
-# codsoft
+# CODSOFT
 completed tasks
